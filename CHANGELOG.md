@@ -1,3 +1,5 @@
+## [3.6.1](https://github.com/grain-lang/pkg-fetch/compare/v3.6.0...v3.6.1) (2025-04-23)
+
 ## [3.6.0](https://github.com/grain-lang/pkg-fetch/compare/v3.6...v3.6.0) (2025-04-23)
 
 ### Chores
