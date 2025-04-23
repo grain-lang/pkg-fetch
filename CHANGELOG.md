@@ -1,3 +1,9 @@
+## [3.6.0](https://github.com/grain-lang/pkg-fetch/compare/v3.6...v3.6.0) (2025-04-23)
+
+### Chores
+
+- Use correct token for npm releases ([b415b00](https://github.com/grain-lang/pkg-fetch/commit/b415b005fec51785fccca65dcb21cc0d3f1465aa))
+
 ## [3.5.21](https://github.com/yao-pkg/pkg-fetch/compare/v3.5.20...v3.5.21) (2025-04-08)
 
 ### Features
